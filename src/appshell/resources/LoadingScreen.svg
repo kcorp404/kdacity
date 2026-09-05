@@ -1,0 +1,41 @@
+<svg width="800" height="380" viewBox="0 0 800 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="kd_wave" x1="344.0" y1="380" x2="772.0" y2="60" gradientUnits="userSpaceOnUse"><stop offset="0.00" stop-color="#D00F62"/><stop offset="0.45" stop-color="#FF3254"/><stop offset="1.00" stop-color="#FF8B43"/></linearGradient>
+<linearGradient id="kd_mark" x1="38" y1="210" x2="130" y2="112" gradientUnits="userSpaceOnUse"><stop offset="0.00" stop-color="#D00F62"/><stop offset="0.45" stop-color="#FF3254"/><stop offset="1.00" stop-color="#FF8B43"/></linearGradient>
+<radialGradient id="kd_glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF3254" stop-opacity="0.26"/><stop offset="1" stop-color="#FF3254" stop-opacity="0"/></radialGradient>
+<clipPath id="kd_clip"><rect width="800" height="380"/></clipPath>
+</defs>
+<g clip-path="url(#kd_clip)">
+<rect width="800" height="380" fill="#00081C"/>
+<ellipse cx="614" cy="190" rx="280" ry="200" fill="url(#kd_glow)"/>
+<rect x="344.0" y="161.3" width="11.0" height="57.5" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="362.0" y="147.7" width="11.0" height="84.6" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="380.0" y="122.0" width="11.0" height="136.0" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="398.0" y="103.3" width="11.0" height="173.3" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="416.0" y="120.9" width="11.0" height="138.2" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="434.0" y="131.2" width="11.0" height="117.5" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="452.0" y="118.4" width="11.0" height="143.3" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="470.0" y="117.4" width="11.0" height="145.2" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="488.0" y="110.3" width="11.0" height="159.4" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="506.0" y="78.7" width="11.0" height="222.6" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="524.0" y="69.9" width="11.0" height="240.1" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="542.0" y="89.0" width="11.0" height="202.0" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="560.0" y="93.6" width="11.0" height="192.9" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="578.0" y="99.8" width="11.0" height="180.4" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="596.0" y="121.2" width="11.0" height="137.6" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="614.0" y="115.1" width="11.0" height="149.7" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="632.0" y="90.9" width="11.0" height="198.3" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="650.0" y="94.3" width="11.0" height="191.3" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="668.0" y="104.2" width="11.0" height="171.5" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="686.0" y="104.9" width="11.0" height="170.2" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="704.0" y="131.4" width="11.0" height="117.3" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="722.0" y="164.1" width="11.0" height="51.8" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="740.0" y="162.4" width="11.0" height="55.2" rx="5.5" fill="url(#kd_wave)"/>
+<rect x="758.0" y="161.3" width="11.0" height="57.5" rx="5.5" fill="url(#kd_wave)"/>
+<g stroke="url(#kd_mark)" stroke-width="21" stroke-linecap="round" fill="none">
+<path d="M49 112 V210"/>
+<path d="M62 166 L124 112"/>
+<path d="M62 162 L126 210"/>
+</g>
+</g>
+</svg>

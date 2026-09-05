@@ -1,0 +1,10 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Building Kdacity
+    url: https://github.com/kcorp404/Kdacity/blob/master/BUILDING.md
+    about: Build and packaging instructions, including the two common build pitfalls.
+  - name: Upstream Audacity
+    url: https://github.com/audacity/audacity/issues
+    about: >-
+      If the problem also happens in official Audacity 4, it is an upstream bug and belongs
+      there. Please do not report Kdacity-specific issues to the Audacity project.

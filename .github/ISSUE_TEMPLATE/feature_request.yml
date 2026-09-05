@@ -1,0 +1,49 @@
+name: Enhancement request
+description: Suggest an improvement to Kdacity
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Kdacity is a focused fork: Audacity 4 with everything that talks to a server removed.
+
+        Requests that would reintroduce a network call — accounts, cloud storage, a plugin
+        store, update checks, telemetry, or links that open a web page — will be declined
+        regardless of how they are implemented. That constraint is the reason the fork exists.
+
+        Ideas that would improve Audacity 4 generally are usually better sent
+        [upstream](https://github.com/audacity/audacity/issues), where they reach far more
+        people. Suggestions specific to the offline build belong here.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the situation you run into, not just the feature you have in mind.
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to happen?
+      description: Describe your idea in a few sentences.
+    validations:
+      required: true
+
+  - type: textarea
+    id: prior_art
+    attributes:
+      label: Prior art
+      description: >-
+        Have you hit this in other audio editors? How did they handle it? Screenshots welcome.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: offline
+    attributes:
+      label: Offline check
+      options:
+        - label: This does not require Kdacity to connect to the network
+          required: true
